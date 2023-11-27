@@ -1,18 +1,9 @@
 {
-  "name": "asn4-mongo-harshitha",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "dependencies": {
     "express": "^4.18.2",
     "express-handlebars": "^7.1.2",
     "express-validator": "^6.14.2",
     "hbs": "^4.2.0",
-    "mongoose": "^6.7.2"
-  },
-  "author": "",
-  "license": "ISC"
+    "mongoose": "^6.12.3"
+  }
 }
